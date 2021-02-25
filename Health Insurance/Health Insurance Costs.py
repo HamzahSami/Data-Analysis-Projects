@@ -3,14 +3,7 @@
 
 # ## Predicting Insurance Costs
 # 
-# - The following dataset consists of demographic variables and the health charges that individuals pay. The goal of this project is to predict the insurance costs for a dataset of persons given data regarding their age, sex, bmi, children, whether they smoke, and the region they reside in. 
-# 
-# - For this project, I will use the Random Forests algorithm to predict insurance costs. The reason for doing so is because a number of the feature variables are dummy variables and I thought an ensemble-boosted algorithm would be best.
-# 
-# - The source of the following dataset can be obtained via Kaggle. Here is the [link](https://www.kaggle.com/mirichoi0218/insurance).
-
 # In[1]:
-
 
 #import relevant packages
 import pandas as pd
