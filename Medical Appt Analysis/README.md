@@ -1,3 +1,2 @@
-Analyzed a dataset for medical appointments in Brazil. Purpose of analysis was to determine an underlying cause for why people no-show their medical appointments. 
-
-Project was programmed in Python and completed in Jupyter Notebook.
+- Analyzed thousands of records of medical appointments in Brazil. Goal is to determine a way for patients to stop no-showing their medical appointments.
+- Programmed in Python and completed in Jupyter Notebook.
