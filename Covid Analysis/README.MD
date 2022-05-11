@@ -1,7 +1,7 @@
 
 # Covid Analysis. 
 
-[Data](https://ourworldindata.org/covid-deaths)
+Data is available [here](https://ourworldindata.org/covid-deaths)
 
 ## Project Goals
 
