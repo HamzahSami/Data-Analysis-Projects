@@ -1,6 +1,8 @@
 
 # Covid Analysis. 
 
+[Data](https://ourworldindata.org/covid-deaths)
+
 ## Project Goals
 
 - Write SQL queries to answer the research questions below. From there, use Tableau to create an interactive dashboard 
@@ -12,4 +14,3 @@
 - Determine the percentage of availability for hospital beds and compare by year
 - Determine the vaccination rate for the countries in the dataset
 
-Data Source [link](https://ourworldindata.org/covid-deaths)
