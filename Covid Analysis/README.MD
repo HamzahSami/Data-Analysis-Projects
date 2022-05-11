@@ -12,4 +12,4 @@
 - Determine the percentage of availability for hospital beds and compare by year
 - Determine the vaccination rate for the countries in the dataset
 
-Data Source (link)[https://ourworldindata.org/covid-deaths]
+Data Source [link](https://ourworldindata.org/covid-deaths)
