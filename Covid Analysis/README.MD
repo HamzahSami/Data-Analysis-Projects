@@ -17,3 +17,6 @@ Data is available [here](https://ourworldindata.org/covid-deaths)
 ## Reference
 
 - Based off a project done by Alex Freberg. Github listed [here](https://github.com/AlexTheAnalyst)
+
+## Tableau Dashboard
+[link](https://public.tableau.com/app/profile/hamzah.sami/viz/Covid19Dashboard_16523758258240/CovidDeathsDashboard)
