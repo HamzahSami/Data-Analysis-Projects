@@ -14,3 +14,6 @@ Data is available [here](https://ourworldindata.org/covid-deaths)
 - Determine the percentage of availability for hospital beds and compare by year
 - Determine the vaccination rate for the countries in the dataset
 
+## Reference
+
+- Based off a project done by Alex Freberg. Github listed [here](https://github.com/AlexTheAnalyst)
