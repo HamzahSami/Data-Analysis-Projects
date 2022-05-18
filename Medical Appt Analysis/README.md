@@ -18,3 +18,5 @@ Data is available [here](https://www.kaggle.com/code/sohailadiab/medical-appoint
 ## Conclusion
 
 - 95% of people do not no-show their medical appointments when they schedule an appointment on the same day.
+
+[](https://github.com/HamzahSami/Data-Analysis-Projects/blob/main/Medical%20Appt%20Analysis/images/Screen%20Shot%202022-05-18%20at%2012.09.12%20PM.png)
