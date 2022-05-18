@@ -14,3 +14,7 @@ Data is available [here](https://www.kaggle.com/code/sohailadiab/medical-appoint
 - Does scholarship status affect why there are so many no-shows?
 - Does the difference between scheduling an appt and going to the appt affect the chance of a no-show?
 - Do SMS messages actually help prevent no-shows?
+
+## Conclusion
+
+95% of people do not no-show their medical appointments when they schedule an appointment on the same day.
