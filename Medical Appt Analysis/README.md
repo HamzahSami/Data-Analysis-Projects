@@ -1,5 +1,5 @@
 
-# Covid Analysis. 
+# Medical Appt No-shows Analysis. 
 
 Data is available [here](https://www.kaggle.com/code/sohailadiab/medical-appointment-no-shows-analysis)
 
