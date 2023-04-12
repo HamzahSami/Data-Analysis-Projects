@@ -20,6 +20,3 @@ Built a dashboard in Tableau to track Covid deaths and infection rate. Wrote sql
 Built a dashboard in Tableau to track revenue, expenses, and enrollment for public school districts listed in dataset. 
 
 
-## Project 5: Udemy Course Subscribers Dashboard
-
-Built a dashboard in Tableau to track top performing courses, discount rate, and verified payments on the Udemy platform. 
